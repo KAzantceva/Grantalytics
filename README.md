@@ -45,6 +45,6 @@
 
 #### Структура проекта:
 
-- `data/`: Папка с данными.
+скачать данные для анализа https://drive.google.com/file/d/1PQweRjt7uX00mWva0_goaj8JLz1tiTLx/view
 - `notebooks/`: Jupyter Notebooks с пошаговым выполнением проекта.
 - `README.md`: Файл с описанием проекта и инструкциями по запуску.
